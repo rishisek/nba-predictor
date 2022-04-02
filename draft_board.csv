@@ -1,31 +1,31 @@
 ,PICK,TEAM,PLAYER,POS,SCHOOL/CLUB,COUNTRY,HEIGHT,WEIGHT
-0,1,,Cade Cunningham,G,Oklahoma State,USA,6-8,220 lbs
-1,2,,Jalen Green,G,G League Ignite,USA,6-6,178 lbs
-2,3,,Evan Mobley,C,USC,USA,7-0,215 lbs
-3,4,,Scottie Barnes,F,Florida State,USA,6-8,225 lbs
-4,5,,Jalen Suggs,G,Gonzaga,USA,6-4,205 lbs
-5,6,,Josh Giddey,G,Adelaide (Australia),Australia,6-8,200 lbs
-6,7,,Jonathan Kuminga,F,G League Ignite,DRC,6-6,210 lbs
-7,8,,Franz Wagner,G-F,Michigan,Germany,6-9,220 lbs
-8,9,,Davion Mitchell,G,Baylor,USA,6-1,202 lbs
-9,10,,Ziaire WilliamsTraded to MEM,F,Stanford,USA,6-8,185 lbs
-10,11,,James Bouknight,G,Connecticut,USA,6-5,190 lbs
-11,12,,Joshua Primo,G,Alabama,USA,6-6,190 lbs
-12,13,,Chris Duarte,G,Oregon,Dominican Republic,6-6,190 lbs
-13,14,,Moses Moody,G,Arkansas,USA,6-5,211 lbs
-14,15,,Corey Kispert,G-F,Gonzaga,USA,6-7,223 lbs
-15,16,,Alperen SengunTraded to HOU,C,Besiktas (Turkey),Turkey,6-9,240 lbs
-16,17,,Trey MurphyTraded to NOP,G,Virginia,USA,6-9,205 lbs
-17,18,,Tre Mann,G,Florida,USA,6-5,190 lbs
-18,19,,Kai JonesTraded to CHA,F,Texas,Bahamas,6-10,221 lbs
-19,20,,Jalen Johnson,G-F,Duke,USA,6-9,210 lbs
-20,21,,Keon JohnsonTraded to LAC,G,Tennessee,USA,6-4,184 lbs
-21,22,,Isaiah JacksonTraded to IND,F,Kentucky,USA,6-10,205 lbs
-22,23,,Usman Garuba,F,Real Madrid,Spain,6-8,229 lbs
-23,24,,Josh Christopher,G,Arizona State,USA,6-5,215 lbs
-24,25,,Quentin GrimesTraded to NYK,G,Houston,USA,6-5,205 lbs
-25,26,,Nah'Shon Hyland,G,VCU,USA,6-3,173 lbs
-26,27,,Cameron Thomas,G,LSU,USA,6-4,210 lbs
-27,28,,Jaden Springer,G,Tennessee,USA,6-4,205 lbs
-28,29,,Day'Ron SharpeTraded to BKN,C,North Carolina,USA,6-11,265 lbs
-29,30,,Santi AldamaTraded to MEM,F,Loyola (MD),Spain,6-11,224 lbs
+0,1,DET,Cade Cunningham,G,Oklahoma State,USA,6-8,220 lbs
+1,2,HOU,Jalen Green,G,G League Ignite,USA,6-6,178 lbs
+2,3,CLE,Evan Mobley,C,USC,USA,7-0,215 lbs
+3,4,TOR,Scottie Barnes,F,Florida State,USA,6-8,225 lbs
+4,5,ORL,Jalen Suggs,G,Gonzaga,USA,6-4,205 lbs
+5,6,OKC,Josh Giddey,G,Adelaide (Australia),Australia,6-8,200 lbs
+6,7,GSW,Jonathan Kuminga,F,G League Ignite,DRC,6-6,210 lbs
+7,8,ORL,Franz Wagner,G-F,Michigan,Germany,6-9,220 lbs
+8,9,SAC,Davion Mitchell,G,Baylor,USA,6-1,202 lbs
+9,10,NOP,Ziaire WilliamsTraded to MEM,F,Stanford,USA,6-8,185 lbs
+10,11,CHA,James Bouknight,G,Connecticut,USA,6-5,190 lbs
+11,12,SAS,Joshua Primo,G,Alabama,USA,6-6,190 lbs
+12,13,IND,Chris Duarte,G,Oregon,Dominican Republic,6-6,190 lbs
+13,14,GSW,Moses Moody,G,Arkansas,USA,6-5,211 lbs
+14,15,WAS,Corey Kispert,G-F,Gonzaga,USA,6-7,223 lbs
+15,16,OKC,Alperen SengunTraded to HOU,C,Besiktas (Turkey),Turkey,6-9,240 lbs
+16,17,MEM,Trey MurphyTraded to NOP,G,Virginia,USA,6-9,205 lbs
+17,18,OKC,Tre Mann,G,Florida,USA,6-5,190 lbs
+18,19,NYK,Kai JonesTraded to CHA,F,Texas,Bahamas,6-10,221 lbs
+19,20,ATL,Jalen Johnson,G-F,Duke,USA,6-9,210 lbs
+20,21,NYK,Keon JohnsonTraded to LAC,G,Tennessee,USA,6-4,184 lbs
+21,22,LAL,Isaiah JacksonTraded to IND,F,Kentucky,USA,6-10,205 lbs
+22,23,HOU,Usman Garuba,F,Real Madrid,Spain,6-8,229 lbs
+23,24,HOU,Josh Christopher,G,Arizona State,USA,6-5,215 lbs
+24,25,LAC,Quentin GrimesTraded to NYK,G,Houston,USA,6-5,205 lbs
+25,26,DEN,Nah'Shon Hyland,G,VCU,USA,6-3,173 lbs
+26,27,BKN,Cameron Thomas,G,LSU,USA,6-4,210 lbs
+27,28,PHI,Jaden Springer,G,Tennessee,USA,6-4,205 lbs
+28,29,PHX,Day'Ron SharpeTraded to BKN,C,North Carolina,USA,6-11,265 lbs
+29,30,UTA,Santi AldamaTraded to MEM,F,Loyola (MD),Spain,6-11,224 lbs
